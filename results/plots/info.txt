@@ -1,0 +1,1 @@
+Plots are stored inside this folder
