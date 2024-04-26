@@ -33,3 +33,7 @@ The target experiments' file should have the following structure:
     gene_3  3        2        ...    50          
     ...
     gene_n  3        2        ...    50        
+
+## How to cite this material
+
+DOI: 10.5281/zenodo.11072200
