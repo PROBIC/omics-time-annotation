@@ -36,4 +36,4 @@ The target experiments' file should have the following structure:
 
 ## How to cite this material
 
-DOI: 10.5281/zenodo.11072200
+DOI: 10.5281/zenodo.11075350
